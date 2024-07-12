@@ -5,7 +5,7 @@ This Solidity smart contract implements a simple voting system on the Ethereum b
 
 ## Contract Details
 
-- **SPDX-License-Identifier**: MIT
+- **SPDX-License-Identifier: UNLICENSED 
 - **Solidity Version**: ^0.8.0
 
 ### State Variables
